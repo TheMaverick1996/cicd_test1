@@ -4,7 +4,7 @@
         <members>*</members>
         <name>ApexClass</name>
     </types>
-        <types>
+    <types>
         <members>Account</members>
         <name>CustomObject</name>
     </types>

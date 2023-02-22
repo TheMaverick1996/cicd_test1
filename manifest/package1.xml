@@ -4,5 +4,9 @@
         <members>Account</members>
         <name>CustomObject</name>
     </types>
+    <types>
+        <members>*</members>
+        <name>CustomApplication</name>
+    </types>
     <version>57.0</version>
 </Package>
