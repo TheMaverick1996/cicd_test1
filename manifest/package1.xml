@@ -8,5 +8,10 @@
         <members>*</members>
         <name>CustomApplication</name>
     </types>
+    <types>
+        <members>*</members>
+        <name>FlexiPage</name>
+    </types>
     <version>57.0</version>
 </Package>
+
